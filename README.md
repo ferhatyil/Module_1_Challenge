@@ -1,9 +1,10 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+This was a project to help Louise to understand her fundraising campaign better.  
 
 ### Purpose
-
+We provided two worksheets and two charts to help her; one focusing on outcomes of her campaign based on their launch dates and the other one focusing on analyzing data outcomes based on goals to see how close her campaigns were to corresponding goals.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 In this worksheet, we analyzed and visualized how Louise's campaign has done over time based on their launch dates. We created a pivot table and added filters so that we could see how each category did. We filtered the chart by "Category" and "Years". By choosing "theatre" filter from Category, we were able to see if the campaign was successful, failed or canceled in each month and also the total number of campaigns. 
